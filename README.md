@@ -8,4 +8,5 @@ Untuk menggunakannya dapat dilihat pada file ```index.html``` atau dengan cara b
 
 >Tambah class ```nf``` pada input element. ```<input type="text" class="nf">```
 
-  
+ asasas
+ 
